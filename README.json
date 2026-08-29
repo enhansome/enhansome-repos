@@ -12,12 +12,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 A collective list of public GraphQL APIs",
+                "homepage": null,
                 "id": 74040767,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-09-26T16:56:07Z",
+                "open_issues": 3,
                 "owner": "APIs-guru",
                 "repo": "graphql-apis",
-                "stars": 4693
+                "stars": 4693,
+                "topics": [
+                  "api",
+                  "api-catalog",
+                  "api-directory",
+                  "graphiql",
+                  "graphql",
+                  "graphql-apis",
+                  "public-api"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -28,12 +41,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📜 A collective list of public GraphQL APIs",
+                "homepage": null,
                 "id": 74040767,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-09-26T16:56:07Z",
+                "open_issues": 3,
                 "owner": "APIs-guru",
                 "repo": "graphql-apis",
-                "stars": 4693
+                "stars": 4693,
+                "topics": [
+                  "api",
+                  "api-catalog",
+                  "api-directory",
+                  "graphiql",
+                  "graphql",
+                  "graphql-apis",
+                  "public-api"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -44,12 +70,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                 "id": 54346799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:19:56Z",
+                "open_issues": 1809,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 472310
+                "stars": 472418,
+                "topics": [
+                  "api",
+                  "apis",
+                  "dataset",
+                  "development",
+                  "free",
+                  "list",
+                  "lists",
+                  "open-source",
+                  "public",
+                  "public-api",
+                  "public-apis",
+                  "resources",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -60,12 +105,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collective list of free APIs",
+                "homepage": "https://APILayer.com/?utm_source=Github&utm_medium=Referral&utm_campaign=Public-apis-repo",
                 "id": 54346799,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T19:19:56Z",
+                "open_issues": 1809,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 472310
+                "stars": 472418,
+                "topics": [
+                  "api",
+                  "apis",
+                  "dataset",
+                  "development",
+                  "free",
+                  "list",
+                  "lists",
+                  "open-source",
+                  "public",
+                  "public-api",
+                  "public-apis",
+                  "resources",
+                  "software"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -83,12 +147,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome computer vision resources",
+                "homepage": null,
                 "id": 29357796,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-05-17T14:24:27Z",
+                "open_issues": 92,
                 "owner": "jbhuang0604",
                 "repo": "awesome-computer-vision",
-                "stars": 23520
+                "stars": 23520,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -99,12 +168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+                "homepage": null,
                 "id": 21872392,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-27T15:29:10Z",
+                "open_issues": 29,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74202
+                "stars": 74202,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -115,12 +189,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+                "homepage": null,
                 "id": 47184304,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-18T21:35:47Z",
+                "open_issues": 15,
                 "owner": "keon",
                 "repo": "awesome-nlp",
-                "stars": 18940
+                "stars": 18940,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "deep-learning",
+                  "language",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "text-mining"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -131,12 +219,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.",
+                "homepage": null,
                 "id": 83579167,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-01T07:01:10Z",
+                "open_issues": 23,
                 "owner": "bharathgs",
                 "repo": "Awesome-pytorch-list",
-                "stars": 16657
+                "stars": 16658,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-vision",
+                  "cv",
+                  "data-science",
+                  "deep-learning",
+                  "facebook",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "neural-network",
+                  "nlp",
+                  "nlp-library",
+                  "papers",
+                  "probabilistic-programming",
+                  "python",
+                  "pytorch",
+                  "pytorch-model",
+                  "pytorch-tutorials",
+                  "tutorials",
+                  "utility-library"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -154,12 +268,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+                "homepage": null,
                 "id": 21737465,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-21T12:39:13Z",
+                "open_issues": 105,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500842
+                "stars": 500890,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lists",
+                  "resources",
+                  "unicorns"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -170,12 +295,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome awesomeness",
+                "homepage": null,
                 "id": 21600440,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2024-06-02T22:46:41Z",
+                "open_issues": 61,
                 "owner": "bayandin",
                 "repo": "awesome-awesomeness",
-                "stars": 33634
+                "stars": 33634,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -193,12 +323,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome list of GraphQL",
+                "homepage": null,
                 "id": 38958738,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-26T16:07:09Z",
+                "open_issues": 5,
                 "owner": "chentsulin",
                 "repo": "awesome-graphql",
-                "stars": 15110
+                "stars": 15109,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "graphql",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -216,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free O Reilly Books",
+                "homepage": null,
                 "id": 108758903,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-07-06T09:19:11Z",
+                "open_issues": 1,
                 "owner": "mohnkhan",
                 "repo": "Free-OReilly-Books",
-                "stars": 888
+                "stars": 888,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -232,12 +377,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Freely available programming books",
+                "homepage": "https://ebookfoundation.github.io/free-programming-books/",
                 "id": 13491895,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-18T14:16:15Z",
+                "open_issues": 92,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 395465
+                "stars": 395483,
+                "topics": [
+                  "books",
+                  "education",
+                  "hacktoberfest",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -248,12 +404,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Golang books",
+                "homepage": null,
                 "id": 35093606,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2026-07-13T16:08:02Z",
+                "open_issues": 0,
                 "owner": "dariubs",
                 "repo": "GoBooks",
-                "stars": 19642
+                "stars": 19641,
+                "topics": [
+                  "awesome",
+                  "awesome-go",
+                  "awesome-golang",
+                  "awesome-list",
+                  "awesome-lists",
+                  "book",
+                  "books",
+                  "development",
+                  "devops",
+                  "go",
+                  "go-books",
+                  "gobooks",
+                  "golang",
+                  "golang-books",
+                  "list",
+                  "resources",
+                  "roadmap"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -264,12 +443,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of books to master JavaScript Development :rocket:",
+                "homepage": null,
                 "id": 44775983,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-04-27T13:17:45Z",
+                "open_issues": 6,
                 "owner": "javascript-society",
                 "repo": "javascript-path",
-                "stars": 3368
+                "stars": 3368,
+                "topics": [
+                  "javascript",
+                  "javascript-path"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -280,12 +467,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " :books: Find your next book to read!",
+                "homepage": "https://mindexpandingbooks.com",
                 "id": 36554250,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-11-09T17:06:27Z",
+                "open_issues": 33,
                 "owner": "hackerkid",
                 "repo": "Mind-Expanding-Books",
-                "stars": 14189
+                "stars": 14190,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "biographies",
+                  "books",
+                  "computer-science",
+                  "economics",
+                  "fiction",
+                  "hacktoberfest",
+                  "hacktoberfest2020",
+                  "history",
+                  "mind-expanding-books",
+                  "philosophy",
+                  "politics",
+                  "psychology",
+                  "sexuality",
+                  "startups",
+                  "theater"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -296,12 +506,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Directory of Python books",
+                "homepage": null,
                 "id": 55897437,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2025-07-17T12:26:40Z",
+                "open_issues": 8,
                 "owner": "junnplus",
                 "repo": "awesome-python-books",
-                "stars": 4292
+                "stars": 4292,
+                "topics": [
+                  "book",
+                  "learning-python",
+                  "python-book",
+                  "python-cookbook",
+                  "python-programming"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -312,12 +533,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹",
+                "homepage": "https://basarat.gitbook.io/typescript/",
                 "id": 32623292,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-29T11:46:59Z",
+                "open_issues": 150,
                 "owner": "basarat",
                 "repo": "typescript-book",
-                "stars": 21551
+                "stars": 21551,
+                "topics": [
+                  "free",
+                  "open-source",
+                  "typescript",
+                  "typescript-book",
+                  "typescript-community"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -335,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free resources for learning Full Stack Web Development",
+                "homepage": null,
                 "id": 85225942,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-18T08:33:46Z",
+                "open_issues": 63,
                 "owner": "bmorelli25",
                 "repo": "Become-A-Full-Stack-Web-Developer",
-                "stars": 18267
+                "stars": 18267,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -351,12 +588,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free resources for learning Full Stack Web Development",
+                "homepage": null,
                 "id": 85225942,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-18T08:33:46Z",
+                "open_issues": 63,
                 "owner": "bmorelli25",
                 "repo": "Become-A-Full-Stack-Web-Developer",
-                "stars": 18267
+                "stars": 18267,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -367,12 +609,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean Code concepts adapted for JavaScript",
+                "homepage": null,
                 "id": 74791366,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-29T07:24:37Z",
+                "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94767
+                "stars": 94767,
+                "topics": [
+                  "best-practices",
+                  "clean-architecture",
+                  "clean-code",
+                  "composition",
+                  "inheritance",
+                  "javascript",
+                  "principles"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -383,12 +638,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clean Code concepts adapted for JavaScript",
+                "homepage": null,
                 "id": 74791366,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-07-29T07:24:37Z",
+                "open_issues": 123,
                 "owner": "ryanmcdermott",
                 "repo": "clean-code-javascript",
-                "stars": 94767
+                "stars": 94767,
+                "topics": [
+                  "best-practices",
+                  "clean-architecture",
+                  "clean-code",
+                  "composition",
+                  "inheritance",
+                  "javascript",
+                  "principles"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -399,12 +667,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A complete computer science study plan to become a software engineer.",
+                "homepage": null,
                 "id": 60493101,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-08-28T14:42:47Z",
+                "open_issues": 126,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 359915
+                "stars": 359922,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "coding-interview",
+                  "coding-interviews",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-prep",
+                  "interview-preparation",
+                  "programming-interviews",
+                  "software-engineering",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -415,12 +701,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎓 Path to a free self-taught education in Computer Science!",
+                "homepage": "https://cs.ossu.dev",
                 "id": 19415064,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-14T05:38:25Z",
+                "open_issues": 27,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208481
+                "stars": 208489,
+                "topics": [
+                  "awesome-list",
+                  "computer-science",
+                  "courses",
+                  "curriculum"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -431,12 +727,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎓 Path to a free self-taught education in Computer Science!",
+                "homepage": "https://cs.ossu.dev",
                 "id": 19415064,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-07-14T05:38:25Z",
+                "open_issues": 27,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 208481
+                "stars": 208489,
+                "topics": [
+                  "awesome-list",
+                  "computer-science",
+                  "courses",
+                  "curriculum"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -447,12 +753,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: List of awesome university courses for learning Computer Science!",
+                "homepage": null,
                 "id": 26689598,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-05-04T12:49:34Z",
+                "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 70722
+                "stars": 70729,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "computer-science",
+                  "courses"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -463,12 +779,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                "homepage": "https://roadmap.sh",
                 "id": 85077558,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T14:35:38Z",
+                "open_issues": 20,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365787
+                "stars": 365794,
+                "topics": [
+                  "angular-roadmap",
+                  "backend-roadmap",
+                  "blockchain-roadmap",
+                  "computer-science",
+                  "dba-roadmap",
+                  "developer-roadmap",
+                  "devops-roadmap",
+                  "frontend-roadmap",
+                  "go-roadmap",
+                  "java-roadmap",
+                  "javascript-roadmap",
+                  "nodejs-roadmap",
+                  "python-roadmap",
+                  "qa-roadmap",
+                  "react-roadmap",
+                  "roadmap",
+                  "software-architect-roadmap",
+                  "vue-roadmap"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -479,12 +819,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+                "homepage": "https://roadmap.sh",
                 "id": 85077558,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T14:35:38Z",
+                "open_issues": 20,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 365787
+                "stars": 365794,
+                "topics": [
+                  "angular-roadmap",
+                  "backend-roadmap",
+                  "blockchain-roadmap",
+                  "computer-science",
+                  "dba-roadmap",
+                  "developer-roadmap",
+                  "devops-roadmap",
+                  "frontend-roadmap",
+                  "go-roadmap",
+                  "java-roadmap",
+                  "javascript-roadmap",
+                  "nodejs-roadmap",
+                  "python-roadmap",
+                  "qa-roadmap",
+                  "react-roadmap",
+                  "roadmap",
+                  "software-architect-roadmap",
+                  "vue-roadmap"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -495,12 +859,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DevOps Roadmap for 2026. with learning resources",
+                "homepage": "https://newsletter.techworld-with-milan.com/",
                 "id": 556191546,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T15:33:20Z",
+                "open_issues": 11,
                 "owner": "milanm",
                 "repo": "DevOps-Roadmap",
-                "stars": 20382
+                "stars": 20384,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "computer-science",
+                  "continous-delivery",
+                  "continuous-integration",
+                  "developer-roadmap",
+                  "devops",
+                  "devops-roadmap",
+                  "docker",
+                  "go",
+                  "grafana",
+                  "jira",
+                  "kubernetes",
+                  "linux",
+                  "prometheus",
+                  "python",
+                  "roadmap",
+                  "sre",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -511,12 +900,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DevOps Roadmap for 2026. with learning resources",
+                "homepage": "https://newsletter.techworld-with-milan.com/",
                 "id": 556191546,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-14T15:33:20Z",
+                "open_issues": 11,
                 "owner": "milanm",
                 "repo": "DevOps-Roadmap",
-                "stars": 20382
+                "stars": 20384,
+                "topics": [
+                  "aws",
+                  "azure",
+                  "computer-science",
+                  "continous-delivery",
+                  "continuous-integration",
+                  "developer-roadmap",
+                  "devops",
+                  "devops-roadmap",
+                  "docker",
+                  "go",
+                  "grafana",
+                  "jira",
+                  "kubernetes",
+                  "linux",
+                  "prometheus",
+                  "python",
+                  "roadmap",
+                  "sre",
+                  "study-plan"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -527,12 +941,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Over 400 software engineering companies that are easy to apply to",
+                "homepage": "http://j-delaney.github.io/easy-application/",
                 "id": 49084741,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-02-09T20:29:54Z",
+                "open_issues": 48,
                 "owner": "j-delaney",
                 "repo": "easy-application",
-                "stars": 7901
+                "stars": 7901,
+                "topics": [
+                  "curated",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -543,12 +966,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Over 400 software engineering companies that are easy to apply to",
+                "homepage": "http://j-delaney.github.io/easy-application/",
                 "id": 49084741,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-02-09T20:29:54Z",
+                "open_issues": 48,
                 "owner": "j-delaney",
                 "repo": "easy-application",
-                "stars": 7901
+                "stars": 7901,
+                "topics": [
+                  "curated",
+                  "list",
+                  "resource"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -559,12 +991,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+                "homepage": "https://h5bp.org/Front-end-Developer-Interview-Questions/",
                 "id": 3402537,
                 "language": "Nunjucks",
+                "license": "MIT",
                 "last_commit": "2026-06-16T23:06:47Z",
+                "open_issues": 63,
                 "owner": "h5bp",
                 "repo": "Front-end-Developer-Interview-Questions",
-                "stars": 60871
+                "stars": 60872,
+                "topics": [
+                  "css-questions",
+                  "front-end",
+                  "html-questions",
+                  "interview-questions",
+                  "interview-test",
+                  "js-questions"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -575,12 +1019,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+                "homepage": "https://h5bp.org/Front-end-Developer-Interview-Questions/",
                 "id": 3402537,
                 "language": "Nunjucks",
+                "license": "MIT",
                 "last_commit": "2026-06-16T23:06:47Z",
+                "open_issues": 63,
                 "owner": "h5bp",
                 "repo": "Front-end-Developer-Interview-Questions",
-                "stars": 60871
+                "stars": 60872,
+                "topics": [
+                  "css-questions",
+                  "front-end",
+                  "html-questions",
+                  "interview-questions",
+                  "interview-test",
+                  "js-questions"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -591,12 +1047,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭐️  Companies that don't have a broken hiring process",
+                "homepage": null,
                 "id": 85031442,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:32:28Z",
+                "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51813
+                "stars": 51815,
+                "topics": [
+                  "airtable",
+                  "hiring",
+                  "hiring-without-whiteboards",
+                  "interview",
+                  "jobs",
+                  "tech",
+                  "whiteboard"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -607,12 +1076,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⭐️  Companies that don't have a broken hiring process",
+                "homepage": null,
                 "id": 85031442,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T02:32:28Z",
+                "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 51813
+                "stars": 51815,
+                "topics": [
+                  "airtable",
+                  "hiring",
+                  "hiring-without-whiteboards",
+                  "interview",
+                  "jobs",
+                  "tech",
+                  "whiteboard"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -623,12 +1105,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open source list of developer questions to ask prospective employers",
+                "homepage": null,
                 "id": 9925600,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-28T03:44:01Z",
+                "open_issues": 2,
                 "owner": "Twipped",
                 "repo": "InterviewThis",
-                "stars": 6905
+                "stars": 6905,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -639,12 +1126,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+                "homepage": null,
                 "id": 126577260,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
+                "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196575
+                "stars": 196577,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-preparation",
+                  "javascript",
+                  "javascript-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -655,12 +1156,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+                "homepage": null,
                 "id": 126577260,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-07-26T02:43:08Z",
+                "open_issues": 404,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196575
+                "stars": 196577,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "computer-science",
+                  "data-structures",
+                  "interview",
+                  "interview-preparation",
+                  "javascript",
+                  "javascript-algorithms"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -671,12 +1186,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pattern-based approach to learn technical interview questions",
+                "homepage": "https://seanprashad.com/leetcode-patterns/",
                 "id": 163639063,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:29:48Z",
+                "open_issues": 1,
                 "owner": "seanprashad",
                 "repo": "leetcode-patterns",
-                "stars": 13685
+                "stars": 13686,
+                "topics": [
+                  "algorithms",
+                  "data-structures",
+                  "interview-prep",
+                  "interview-questions",
+                  "leetcode",
+                  "leetcode-patterns",
+                  "study-guide"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -687,12 +1215,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A pattern-based approach to learn technical interview questions",
+                "homepage": "https://seanprashad.com/leetcode-patterns/",
                 "id": 163639063,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T13:29:48Z",
+                "open_issues": 1,
                 "owner": "seanprashad",
                 "repo": "leetcode-patterns",
-                "stars": 13685
+                "stars": 13686,
+                "topics": [
+                  "algorithms",
+                  "data-structures",
+                  "interview-prep",
+                  "interview-questions",
+                  "leetcode",
+                  "leetcode-patterns",
+                  "study-guide"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -710,12 +1251,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheet for promises and async/await.",
+                "homepage": null,
                 "id": 154005068,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-10-31T15:43:38Z",
+                "open_issues": 1,
                 "owner": "frontarm",
                 "repo": "async-javascript-cheatsheet",
-                "stars": 1929
+                "stars": 1929,
+                "topics": [
+                  "async-await",
+                  "cheatsheet",
+                  "javascript",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -726,12 +1277,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cheatsheet for promises and async/await.",
+                "homepage": null,
                 "id": 154005068,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2018-10-31T15:43:38Z",
+                "open_issues": 1,
                 "owner": "frontarm",
                 "repo": "async-javascript-cheatsheet",
-                "stars": 1929
+                "stars": 1929,
+                "topics": [
+                  "async-await",
+                  "cheatsheet",
+                  "javascript",
+                  "promises"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -742,12 +1303,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate cheatsheet for Bootstrap5 🚀",
+                "homepage": "https://bootstrap-cheatsheet.themeselection.com/",
                 "id": 331967906,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-08-27T10:52:30Z",
+                "open_issues": 2,
                 "owner": "themeselection",
                 "repo": "bootstrap-cheatsheet",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -758,12 +1330,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ultimate cheatsheet for Bootstrap5 🚀",
+                "homepage": "https://bootstrap-cheatsheet.themeselection.com/",
                 "id": 331967906,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-08-27T10:52:30Z",
+                "open_issues": 2,
                 "owner": "themeselection",
                 "repo": "bootstrap-cheatsheet",
-                "stars": 472
+                "stars": 472,
+                "topics": [
+                  "bootstrap",
+                  "bootstrap-template",
+                  "bootstrap-theme",
+                  "bootstrap4",
+                  "bootstrap5"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -774,12 +1357,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern C++ Cheatsheet",
+                "homepage": null,
                 "id": 66033005,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-12-15T08:48:20Z",
+                "open_issues": 20,
                 "owner": "mortennobel",
                 "repo": "cpp-cheatsheet",
-                "stars": 3558
+                "stars": 3558,
+                "topics": [
+                  "cheatsheet",
+                  "cpp",
+                  "cpp11",
+                  "cpp14"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -790,12 +1383,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Data Science Cheatsheets to rule the world",
+                "homepage": null,
                 "id": 162608338,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-07-18T03:39:29Z",
+                "open_issues": 13,
                 "owner": "FavioVazquez",
                 "repo": "ds-cheatsheets",
-                "stars": 16330
+                "stars": 16330,
+                "topics": [
+                  "cheatsheet",
+                  "datascience",
+                  "jupyter",
+                  "programming",
+                  "python",
+                  "r",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -806,12 +1412,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Data Science Cheatsheets to rule the world",
+                "homepage": null,
                 "id": 162608338,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-07-18T03:39:29Z",
+                "open_issues": 13,
                 "owner": "FavioVazquez",
                 "repo": "ds-cheatsheets",
-                "stars": 16330
+                "stars": 16330,
+                "topics": [
+                  "cheatsheet",
+                  "datascience",
+                  "jupyter",
+                  "programming",
+                  "python",
+                  "r",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -822,12 +1441,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐋 Docker Cheat Sheet 🐋",
+                "homepage": "https://faun.dev",
                 "id": 101122425,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-19T11:33:06Z",
+                "open_issues": 1,
                 "owner": "eon01",
                 "repo": "DockerCheatSheet",
-                "stars": 3947
+                "stars": 3947,
+                "topics": [
+                  "books",
+                  "cleaning-docker",
+                  "course",
+                  "docker",
+                  "docker-compose",
+                  "docker-container",
+                  "docker-image",
+                  "docker-registries",
+                  "docker-registry",
+                  "docker-swarm",
+                  "dockerfiles",
+                  "registry",
+                  "swarm",
+                  "volume"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -838,12 +1477,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐋 Docker Cheat Sheet 🐋",
+                "homepage": "https://faun.dev",
                 "id": 101122425,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-02-19T11:33:06Z",
+                "open_issues": 1,
                 "owner": "eon01",
                 "repo": "DockerCheatSheet",
-                "stars": 3947
+                "stars": 3947,
+                "topics": [
+                  "books",
+                  "cleaning-docker",
+                  "course",
+                  "docker",
+                  "docker-compose",
+                  "docker-container",
+                  "docker-image",
+                  "docker-registries",
+                  "docker-registry",
+                  "docker-swarm",
+                  "dockerfiles",
+                  "registry",
+                  "swarm",
+                  "volume"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -854,12 +1513,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A markdown version emoji cheat sheet",
+                "homepage": null,
                 "id": 85325902,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T03:01:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:32:08Z",
+                "open_issues": 91,
                 "owner": "ikatyang",
                 "repo": "emoji-cheat-sheet",
-                "stars": 13808
+                "stars": 13807,
+                "topics": [
+                  "cheat-sheet",
+                  "emoji",
+                  "github",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -870,12 +1539,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A markdown version emoji cheat sheet",
+                "homepage": null,
                 "id": 85325902,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T03:01:45Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:32:08Z",
+                "open_issues": 91,
                 "owner": "ikatyang",
                 "repo": "emoji-cheat-sheet",
-                "stars": 13808
+                "stars": 13807,
+                "topics": [
+                  "cheat-sheet",
+                  "emoji",
+                  "github",
+                  "markdown"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -886,12 +1565,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of cool features of Git and GitHub.",
+                "homepage": "http://git.io/sheet",
                 "id": 18708860,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-15T20:15:56Z",
+                "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58767
+                "stars": 58774,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "git",
+                  "github",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -902,12 +1592,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of cool features of Git and GitHub.",
+                "homepage": "http://git.io/sheet",
                 "id": 18708860,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-15T20:15:56Z",
+                "open_issues": 48,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 58767
+                "stars": 58774,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "git",
+                  "github",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -918,12 +1619,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Comprehensive Python Cheatsheet",
+                "homepage": "https://gto76.github.io/python-cheatsheet/",
                 "id": 118861276,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-29T14:56:37Z",
+                "open_issues": 0,
                 "owner": "gto76",
                 "repo": "python-cheatsheet",
-                "stars": 38643
+                "stars": 38643,
+                "topics": [
+                  "cheatsheet",
+                  "python",
+                  "python-cheatsheet",
+                  "reference"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -934,12 +1645,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shortcuts that will help you to become an advance VIM user.",
+                "homepage": null,
                 "id": 364817820,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2021-05-11T09:21:39Z",
+                "open_issues": 0,
                 "owner": "pawelborkar",
                 "repo": "vim-cheatsheet",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "cheatsheet",
+                  "neovim",
+                  "tab-shortcuts",
+                  "vim",
+                  "vim-cheatsheet",
+                  "vim-configuration",
+                  "vim-keyboard-shortcuts"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -957,12 +1681,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.",
+                "homepage": null,
                 "id": 44104712,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-12T09:29:54Z",
+                "open_issues": 102,
                 "owner": "donnemartin",
                 "repo": "awesome-aws",
-                "stars": 14129
+                "stars": 14128,
+                "topics": [
+                  "aws",
+                  "aws-cli",
+                  "aws-sdk",
+                  "cloud",
+                  "cloud-management",
+                  "cloudformation",
+                  "cloudwatch",
+                  "dynamodb",
+                  "ec2",
+                  "ecs",
+                  "elasticsearch",
+                  "iam",
+                  "kinesis",
+                  "lambda",
+                  "machine-learning",
+                  "rds",
+                  "redshift",
+                  "route53",
+                  "s3",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -980,12 +1730,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Algorithms used in Competitive Programming",
+                "homepage": null,
                 "id": 107818213,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-07-04T07:38:09Z",
+                "open_issues": 52,
                 "owner": "matthewsamuel95",
                 "repo": "ACM-ICPC-Algorithms",
-                "stars": 2308
+                "stars": 2308,
+                "topics": [
+                  "acm",
+                  "acm-icpc",
+                  "acm-icpc-handbook",
+                  "algorithm",
+                  "algorithm-competitions",
+                  "algorithms",
+                  "icpc",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -996,12 +1760,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":gem: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources",
+                "homepage": "http://codeforces.com/blog/entry/23054",
                 "id": 46572574,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-12-08T09:40:58Z",
+                "open_issues": 28,
                 "owner": "lnishan",
                 "repo": "awesome-competitive-programming",
-                "stars": 14146
+                "stars": 14146,
+                "topics": [
+                  "algorithm",
+                  "awesome",
+                  "awesome-list",
+                  "competitive-programming",
+                  "contest",
+                  "data-structure",
+                  "learning-materials",
+                  "list",
+                  "practice",
+                  "programming-contests",
+                  "quora",
+                  "reference-materials"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1012,12 +1794,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for interesting Competitive Coding problems",
+                "homepage": null,
                 "id": 300819537,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-09T04:34:24Z",
+                "open_issues": 1,
                 "owner": "Vishruth-S",
                 "repo": "CompetitiveCode",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "algorithm-challenges",
+                  "competitive-coding",
+                  "competitive-programming",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1028,12 +1820,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for interesting Competitive Coding problems",
+                "homepage": null,
                 "id": 300819537,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-09T04:34:24Z",
+                "open_issues": 1,
                 "owner": "Vishruth-S",
                 "repo": "CompetitiveCode",
-                "stars": 173
+                "stars": 173,
+                "topics": [
+                  "algorithm-challenges",
+                  "competitive-coding",
+                  "competitive-programming",
+                  "programming"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1044,12 +1846,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Competitive Programming & System Design Resources.",
+                "homepage": null,
                 "id": 286448779,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-28T09:27:23Z",
+                "open_issues": 9,
                 "owner": "kunal-kushwaha",
                 "repo": "Competitive-Programming-Resources",
-                "stars": 3904
+                "stars": 3904,
+                "topics": [
+                  "competitive-programming",
+                  "interview-preparation",
+                  "programming-competition",
+                  "programming-interviews",
+                  "resources",
+                  "skills",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1060,12 +1875,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Competitive Programming & System Design Resources.",
+                "homepage": null,
                 "id": 286448779,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-28T09:27:23Z",
+                "open_issues": 9,
                 "owner": "kunal-kushwaha",
                 "repo": "Competitive-Programming-Resources",
-                "stars": 3904
+                "stars": 3904,
+                "topics": [
+                  "competitive-programming",
+                  "interview-preparation",
+                  "programming-competition",
+                  "programming-interviews",
+                  "resources",
+                  "skills",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1083,12 +1911,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tech resources that allow you to learn new things by playing games",
+                "homepage": null,
                 "id": 372435148,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-11T10:07:04Z",
+                "open_issues": 1,
                 "owner": "lmammino",
                 "repo": "awesome-learn-by-playing",
-                "stars": 881
+                "stars": 881,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "coding",
+                  "free",
+                  "game",
+                  "learning",
+                  "list",
+                  "paid",
+                  "programming",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1099,12 +1943,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tech resources that allow you to learn new things by playing games",
+                "homepage": null,
                 "id": 372435148,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-11T10:07:04Z",
+                "open_issues": 1,
                 "owner": "lmammino",
                 "repo": "awesome-learn-by-playing",
-                "stars": 881
+                "stars": 881,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "coding",
+                  "free",
+                  "game",
+                  "learning",
+                  "list",
+                  "paid",
+                  "programming",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1115,12 +1975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Labs and demos for courses for GCP Training (http://cloud.google.com/training).",
+                "homepage": null,
                 "id": 56459948,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T15:57:21Z",
+                "open_issues": 574,
                 "owner": "GoogleCloudPlatform",
                 "repo": "training-data-analyst",
-                "stars": 8622
+                "stars": 8622,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1131,12 +1996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Labs and demos for courses for GCP Training (http://cloud.google.com/training).",
+                "homepage": null,
                 "id": 56459948,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T15:57:21Z",
+                "open_issues": 574,
                 "owner": "GoogleCloudPlatform",
                 "repo": "training-data-analyst",
-                "stars": 8622
+                "stars": 8622,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1154,12 +2024,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+                "homepage": null,
                 "id": 3105906,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:11:04Z",
+                "open_issues": 2,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9524
+                "stars": 9524,
+                "topics": [
+                  "beautiful",
+                  "beautiful-docs",
+                  "dev",
+                  "developer",
+                  "doc",
+                  "docs",
+                  "documentation",
+                  "documentations",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1170,12 +2055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+                "homepage": null,
                 "id": 261787758,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-24T10:07:48Z",
+                "open_issues": 103,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66770
+                "stars": 66770,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1186,12 +2076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+                "homepage": null,
                 "id": 261787758,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-05-24T10:07:48Z",
+                "open_issues": 103,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 66770
+                "stars": 66770,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1202,12 +2097,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Development YouTube Channels",
+                "homepage": null,
                 "id": 230327376,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-13T13:12:23Z",
+                "open_issues": 23,
                 "owner": "ErikCH",
                 "repo": "DevYouTubeList",
-                "stars": 5048
+                "stars": 5047,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1218,12 +2118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of Development YouTube Channels",
+                "homepage": null,
                 "id": 230327376,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-13T13:12:23Z",
+                "open_issues": 23,
                 "owner": "ErikCH",
                 "repo": "DevYouTubeList",
-                "stars": 5048
+                "stars": 5047,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1234,12 +2139,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Awesome & interesting talks about programming",
+                "homepage": null,
                 "id": 29439879,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-07T18:17:19Z",
+                "open_issues": 2,
                 "owner": "hellerve",
                 "repo": "programming-talks",
-                "stars": 7368
+                "stars": 7368,
+                "topics": [
+                  "list",
+                  "programming-talks",
+                  "talks"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1257,12 +2171,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome mathematics resources",
+                "homepage": null,
                 "id": 41793121,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-14T08:36:36Z",
+                "open_issues": 0,
                 "owner": "rossant",
                 "repo": "awesome-math",
-                "stars": 16193
+                "stars": 16194,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "lecture-notes",
+                  "list",
+                  "mathematics"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1273,12 +2198,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of project-based tutorials",
+                "homepage": null,
                 "id": 88011908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:38:50Z",
+                "open_issues": 271,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 281188
+                "stars": 281200,
+                "topics": [
+                  "beginner-project",
+                  "cpp",
+                  "golang",
+                  "javascript",
+                  "project",
+                  "python",
+                  "tutorial",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1289,12 +2228,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of project-based tutorials",
+                "homepage": null,
                 "id": 88011908,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T07:38:50Z",
+                "open_issues": 271,
                 "owner": "practical-tutorials",
                 "repo": "project-based-learning",
-                "stars": 281188
+                "stars": 281200,
+                "topics": [
+                  "beginner-project",
+                  "cpp",
+                  "golang",
+                  "javascript",
+                  "project",
+                  "python",
+                  "tutorial",
+                  "webdevelopment"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1312,12 +2265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of awesome .NET libraries, tools, frameworks and software",
+                "homepage": null,
                 "id": 21894635,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-03-26T05:16:53Z",
+                "open_issues": 144,
                 "owner": "quozd",
                 "repo": "awesome-dotnet",
-                "stars": 21579
+                "stars": 21579,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "clr",
+                  "csharp",
+                  "dotnet",
+                  "fsharp"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1328,12 +2293,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "List of awesome CSS frameworks in 2026",
+                "homepage": "https://frontaid.ch/web/ui/libraries.html",
                 "id": 102095278,
                 "language": "CSS",
+                "license": null,
                 "last_commit": "2026-06-08T20:32:07Z",
+                "open_issues": 4,
                 "owner": "troxler",
                 "repo": "awesome-css-frameworks",
-                "stars": 9499
+                "stars": 9499,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "collection",
+                  "css",
+                  "css-framework",
+                  "framework",
+                  "list",
+                  "scss"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1344,12 +2323,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Useful resources for creating apps with Electron [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE I'M TIRED OF REVIEWING LOW-QUALITY STUFF]",
+                "homepage": null,
                 "id": 34453060,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-03T11:29:47Z",
+                "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "awesome-electron",
-                "stars": 27267
+                "stars": 27266,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "electron",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1360,12 +2349,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
+                "homepage": null,
                 "id": 22417801,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-03T15:59:36Z",
+                "open_issues": 88,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13094
+                "stars": 13094,
+                "topics": [
+                  "awesome",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1376,12 +2374,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome things related to NestJS 😎",
+                "homepage": null,
                 "id": 104957153,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-27T14:48:41Z",
+                "open_issues": 5,
                 "owner": "nestjs",
                 "repo": "awesome-nestjs",
-                "stars": 13121
+                "stars": 13119,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "nestjs"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1392,12 +2400,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 A curated list of awesome things related to Vue.js",
+                "homepage": null,
                 "id": 44571718,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-24T10:16:04Z",
+                "open_issues": 100,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73549
+                "stars": 73548,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1408,12 +2421,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎉 A curated list of awesome things related to Vue.js",
+                "homepage": null,
                 "id": 44571718,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-24T10:16:04Z",
+                "open_issues": 100,
                 "owner": "vuejs",
                 "repo": "awesome-vue",
-                "stars": 73549
+                "stars": 73548,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1431,12 +2449,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+                "homepage": "https://animate.style/",
                 "id": 2561582,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-29T19:34:21Z",
+                "open_issues": 79,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82757
+                "stars": 82756,
+                "topics": [
+                  "animation",
+                  "css",
+                  "css-animations",
+                  "stylesheets"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1447,12 +2475,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+                "homepage": "https://animate.style/",
                 "id": 2561582,
                 "language": "CSS",
+                "license": "NOASSERTION",
                 "last_commit": "2024-07-29T19:34:21Z",
+                "open_issues": 79,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82757
+                "stars": 82756,
+                "topics": [
+                  "animation",
+                  "css",
+                  "css-animations",
+                  "stylesheets"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1463,12 +2501,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains content which will be helpful in your journey as a front-end Web Developer",
+                "homepage": null,
                 "id": 100615291,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-24T10:38:36Z",
+                "open_issues": 35,
                 "owner": "RitikPatni",
                 "repo": "Front-End-Web-Development-Resources",
-                "stars": 5149
+                "stars": 5149,
+                "topics": [
+                  "animation-frameworks",
+                  "color-scheme",
+                  "css",
+                  "css-framework",
+                  "css-grid",
+                  "framework",
+                  "free-photos",
+                  "front-end",
+                  "front-end-development",
+                  "frontend",
+                  "frontend-framework",
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "resources",
+                  "stock-resources",
+                  "tutorial",
+                  "youtube-channel"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1479,12 +2541,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains content which will be helpful in your journey as a front-end Web Developer",
+                "homepage": null,
                 "id": 100615291,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-24T10:38:36Z",
+                "open_issues": 35,
                 "owner": "RitikPatni",
                 "repo": "Front-End-Web-Development-Resources",
-                "stars": 5149
+                "stars": 5149,
+                "topics": [
+                  "animation-frameworks",
+                  "color-scheme",
+                  "css",
+                  "css-framework",
+                  "css-grid",
+                  "framework",
+                  "free-photos",
+                  "front-end",
+                  "front-end-development",
+                  "frontend",
+                  "frontend-framework",
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "resources",
+                  "stock-resources",
+                  "tutorial",
+                  "youtube-channel"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1495,12 +2581,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains content which will be helpful in your journey as a front-end Web Developer",
+                "homepage": null,
                 "id": 100615291,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-06-24T10:38:36Z",
+                "open_issues": 35,
                 "owner": "RitikPatni",
                 "repo": "Front-End-Web-Development-Resources",
-                "stars": 5149
+                "stars": 5149,
+                "topics": [
+                  "animation-frameworks",
+                  "color-scheme",
+                  "css",
+                  "css-framework",
+                  "css-grid",
+                  "framework",
+                  "free-photos",
+                  "front-end",
+                  "front-end-development",
+                  "frontend",
+                  "frontend-framework",
+                  "hacktoberfest",
+                  "html",
+                  "javascript",
+                  "resources",
+                  "stock-resources",
+                  "tutorial",
+                  "youtube-channel"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1511,12 +2621,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
+                "homepage": null,
                 "id": 28008600,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-12-27T08:35:04Z",
+                "open_issues": 101,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11514
+                "stars": 11515,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1527,12 +2647,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: A curated list of awesome HTML5 resources",
+                "homepage": "https://diegocard.com/awesome-html5",
                 "id": 21430176,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-26T08:12:13Z",
+                "open_issues": 18,
                 "owner": "diegocard",
                 "repo": "awesome-html5",
-                "stars": 2806
+                "stars": 2806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1543,12 +2672,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":memo: A curated list of awesome HTML5 resources",
+                "homepage": "https://diegocard.com/awesome-html5",
                 "id": 21430176,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-09-26T08:12:13Z",
+                "open_issues": 18,
                 "owner": "diegocard",
                 "repo": "awesome-html5",
-                "stars": 2806
+                "stars": 2806,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1559,12 +2697,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated List of React Components & Libraries.",
+                "homepage": null,
                 "id": 61893399,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-01-26T16:36:45Z",
+                "open_issues": 83,
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48286
+                "stars": 48288,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "react",
+                  "react-component",
+                  "react-components"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1582,12 +2731,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of Developer Community Writer Programs",
+                "homepage": null,
                 "id": 215390876,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-31T10:02:13Z",
+                "open_issues": 8,
                 "owner": "malgamves",
                 "repo": "CommunityWriterPrograms",
-                "stars": 4177
+                "stars": 4177,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1598,12 +2752,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of Developer Community Writer Programs",
+                "homepage": null,
                 "id": 215390876,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-31T10:02:13Z",
+                "open_issues": 8,
                 "owner": "malgamves",
                 "repo": "CommunityWriterPrograms",
-                "stars": 4177
+                "stars": 4177,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1614,12 +2773,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of all the open-source internships/Programs",
+                "homepage": "https://30dayscoding.com",
                 "id": 267874295,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-20T07:49:08Z",
+                "open_issues": 10,
                 "owner": "deepanshu1422",
                 "repo": "List-Of-Open-Source-Internships-Programs",
-                "stars": 5143
+                "stars": 5143,
+                "topics": [
+                  "community",
+                  "developer",
+                  "git",
+                  "gsoc",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted",
+                  "hacktoberfest2020",
+                  "hacktoberfest2022",
+                  "help",
+                  "intern",
+                  "internship",
+                  "jobs",
+                  "money",
+                  "opensource",
+                  "opensourceforgood",
+                  "proposals",
+                  "software",
+                  "swags"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1637,12 +2820,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
+                "homepage": null,
                 "id": 28008600,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-12-27T08:35:04Z",
+                "open_issues": 101,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11514
+                "stars": 11515,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1653,12 +2846,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.",
+                "homepage": null,
                 "id": 28008600,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-12-27T08:35:04Z",
+                "open_issues": 101,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11514
+                "stars": 11515,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1669,12 +2872,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+                "homepage": "http://fffaraz.github.io/awesome-cpp/",
                 "id": 21935031,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T08:36:07Z",
+                "open_issues": 312,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72981
+                "stars": 72983,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp-library",
+                  "cppcon",
+                  "libraries",
+                  "list",
+                  "lists",
+                  "programming-tutorial",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1685,12 +2906,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+                "homepage": "http://fffaraz.github.io/awesome-cpp/",
                 "id": 21935031,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T08:36:07Z",
+                "open_issues": 312,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 72981
+                "stars": 72983,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "c",
+                  "c-plus-plus",
+                  "cpp",
+                  "cpp-library",
+                  "cppcon",
+                  "libraries",
+                  "list",
+                  "lists",
+                  "programming-tutorial",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1701,12 +2940,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Go frameworks, libraries and software",
+                "homepage": "https://awesome-go.com",
                 "id": 21540759,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:52:34Z",
+                "open_issues": 219,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182548
+                "stars": 182558,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1717,12 +2968,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome Go frameworks, libraries and software",
+                "homepage": "https://awesome-go.com",
                 "id": 21540759,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:52:34Z",
+                "open_issues": 219,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182548
+                "stars": 182558,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "go",
+                  "golang",
+                  "golang-library",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1733,12 +2996,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+                "homepage": null,
                 "id": 21648001,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-24T00:59:50Z",
+                "open_issues": 3,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 48877
+                "stars": 48878,
+                "topics": [
+                  "awesome",
+                  "awesome-list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1749,12 +3020,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐢 A collection of awesome browser-side  JavaScript libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 21393871,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-19T17:00:42Z",
+                "open_issues": 31,
                 "owner": "sorrycc",
                 "repo": "awesome-javascript",
-                "stars": 35022
+                "stars": 35022,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1765,12 +3041,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of quality Lua packages and resources.",
+                "homepage": null,
                 "id": 23039606,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-08-11T17:32:00Z",
+                "open_issues": 48,
                 "owner": "LewisJEllis",
                 "repo": "awesome-lua",
-                "stars": 4559
+                "stars": 4559,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1781,12 +3062,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 14705691,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-13T19:44:57Z",
+                "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32671,
+                "topics": [
+                  "awesome",
+                  "awesome-lists",
+                  "php",
+                  "php-applications",
+                  "php-framework",
+                  "php-installation",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1797,12 +3091,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 14705691,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-13T19:44:57Z",
+                "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32671,
+                "topics": [
+                  "awesome",
+                  "awesome-lists",
+                  "php",
+                  "php-applications",
+                  "php-framework",
+                  "php-installation",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1813,12 +3120,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+                "homepage": "https://awesome-python.com/",
                 "id": 21289110,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T04:08:40Z",
+                "open_issues": 18,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 316764
+                "stars": 316804,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "python",
+                  "python-frameworks",
+                  "python-libraries",
+                  "python-tools"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1829,12 +3148,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome R packages, frameworks and software.",
+                "homepage": null,
                 "id": 22003158,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-09-18T16:46:19Z",
+                "open_issues": 30,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6506
+                "stars": 6507,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "data-analysis",
+                  "data-science",
+                  "list",
+                  "r",
+                  "rstats"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1845,12 +3177,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Rust code and resources.",
+                "homepage": null,
                 "id": 21938243,
                 "language": "Rust",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-28T11:12:13Z",
+                "open_issues": 8,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59029
+                "stars": 59031,
+                "topics": [
+                  "awesome",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1861,12 +3201,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+                "homepage": null,
                 "id": 21552971,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-08-28T14:40:51Z",
+                "open_issues": 185,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37523
+                "stars": 37526,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bash",
+                  "cli",
+                  "fish",
+                  "list",
+                  "shell",
+                  "zsh"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1877,12 +3231,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+                "homepage": null,
                 "id": 21696302,
                 "language": "Ruby",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-03T13:15:16Z",
+                "open_issues": 11,
                 "owner": "matteocrippa",
                 "repo": "awesome-swift",
-                "stars": 26232
+                "stars": 26232,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-lists",
+                  "awesome-swift",
+                  "ios",
+                  "linux",
+                  "list",
+                  "lists",
+                  "swift",
+                  "swift-extensions",
+                  "swift-framework",
+                  "swift-language",
+                  "swift-library"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1893,12 +3266,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome V frameworks, libraries, software and resources.",
+                "homepage": null,
                 "id": 195092243,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-26T11:11:05Z",
+                "open_issues": 4,
                 "owner": "vlang",
                 "repo": "awesome-v",
-                "stars": 2105
+                "stars": 2105,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "v"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -1916,12 +3298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "50+ mini web projects using HTML, CSS & JS",
+                "homepage": null,
                 "id": 313330998,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-02-26T13:49:39Z",
+                "open_issues": 48,
                 "owner": "bradtraversy",
                 "repo": "50projects50days",
-                "stars": 40638
+                "stars": 40638,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1932,12 +3319,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "50+ mini web projects using HTML, CSS & JS",
+                "homepage": null,
                 "id": 313330998,
                 "language": "CSS",
+                "license": "MIT",
                 "last_commit": "2025-02-26T13:49:39Z",
+                "open_issues": 48,
                 "owner": "bradtraversy",
                 "repo": "50projects50days",
-                "stars": 40638
+                "stars": 40638,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1948,12 +3340,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Master programming by recreating your favorite technologies from scratch.",
+                "homepage": "https://codecrafters.io",
                 "id": 132750724,
                 "language": "Markdown",
+                "license": null,
                 "last_commit": "2026-07-14T19:25:58Z",
+                "open_issues": 639,
                 "owner": "codecrafters-io",
                 "repo": "build-your-own-x",
-                "stars": 543686
+                "stars": 543735,
+                "topics": [
+                  "awesome-list",
+                  "free",
+                  "programming",
+                  "tutorial-code",
+                  "tutorial-exercises",
+                  "tutorials"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1964,12 +3368,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of projects built on the React library",
+                "homepage": null,
                 "id": 115901925,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-08-19T13:05:55Z",
+                "open_issues": 144,
                 "owner": "ajayns",
                 "repo": "react-projects",
-                "stars": 1547
+                "stars": 1547,
+                "topics": [
+                  "jsx",
+                  "projects",
+                  "react",
+                  "react-router",
+                  "redux"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -1980,12 +3395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+                "homepage": null,
                 "id": 236750354,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-03-28T13:15:34Z",
+                "open_issues": 26,
                 "owner": "bradtraversy",
                 "repo": "vanillawebprojects",
-                "stars": 16102
+                "stars": 16102,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -2003,12 +3423,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Comprehensive Ethereum Reading List",
+                "homepage": null,
                 "id": 88447006,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-04T23:10:43Z",
+                "open_issues": 5,
                 "owner": "Scanate",
                 "repo": "EthList",
-                "stars": 3875
+                "stars": 3875,
+                "topics": [
+                  "bitcoin",
+                  "blockchain",
+                  "cryptocurrency",
+                  "decentralization",
+                  "decentralized",
+                  "ethereum",
+                  "ethereum-client",
+                  "ethereum-contract",
+                  "ethereum-dapp",
+                  "ethereum-token",
+                  "ethereumjs",
+                  "reading-list",
+                  "smartcontracts"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2019,12 +3458,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated selection of blog posts on Go",
+                "homepage": null,
                 "id": 122404324,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-25T04:43:36Z",
+                "open_issues": 30,
                 "owner": "enocom",
                 "repo": "gopher-reading-list",
-                "stars": 8043
+                "stars": 8043,
+                "topics": [
+                  "blog-posts",
+                  "go",
+                  "golang",
+                  "reading-list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2035,12 +3484,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated selection of blog posts on Go",
+                "homepage": null,
                 "id": 122404324,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-25T04:43:36Z",
+                "open_issues": 30,
                 "owner": "enocom",
                 "repo": "gopher-reading-list",
-                "stars": 8043
+                "stars": 8043,
+                "topics": [
+                  "blog-posts",
+                  "go",
+                  "golang",
+                  "reading-list"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -2058,12 +3517,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+                "homepage": null,
                 "id": 55076063,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-26T03:29:02Z",
+                "open_issues": 40,
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 119251
+                "stars": 119268,
+                "topics": [
+                  "android",
+                  "awesome",
+                  "bug-bounty",
+                  "fuzzing",
+                  "hacking",
+                  "penetration-testing",
+                  "pentesting-windows",
+                  "reverse-engineering",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2074,12 +3548,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐶 A curated list of Web Security materials and resources.",
+                "homepage": "https://awesomelists.top/#/repos/qazbnm456/awesome-web-security",
                 "id": 80358070,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-21T13:51:02Z",
+                "open_issues": 4,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13738
+                "stars": 13739,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "penetration-testing",
+                  "security",
+                  "web",
+                  "websecurity"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -2097,12 +3584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",
+                "homepage": null,
                 "id": 285768990,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-06T16:24:47Z",
+                "open_issues": 10,
                 "owner": "Jeevan-kumar-Raj",
                 "repo": "Grokking-System-Design",
-                "stars": 6567
+                "stars": 6567,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2113,12 +3605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Systems design is the process of defining the architecture, modules, interfaces, and data for a system to satisfy specified requirements. Systems design could be seen as the application of systems theory to product development.",
+                "homepage": null,
                 "id": 285768990,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2024-03-06T16:24:47Z",
+                "open_issues": 10,
                 "owner": "Jeevan-kumar-Raj",
                 "repo": "Grokking-System-Design",
-                "stars": 6567
+                "stars": 6567,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2129,12 +3626,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "System design interview for IT companies",
+                "homepage": null,
                 "id": 19901248,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-03T04:22:45Z",
+                "open_issues": 26,
                 "owner": "checkcheckzz",
                 "repo": "system-design-interview",
-                "stars": 23651
+                "stars": 23651,
+                "topics": [
+                  "design-systems",
+                  "interview",
+                  "interview-preparation",
+                  "interview-questions",
+                  "system",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2145,12 +3654,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                "homepage": null,
                 "id": 83222441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-20T01:52:19Z",
+                "open_issues": 613,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366579
+                "stars": 366601,
+                "topics": [
+                  "design",
+                  "design-patterns",
+                  "design-system",
+                  "development",
+                  "interview",
+                  "interview-practice",
+                  "interview-questions",
+                  "programming",
+                  "python",
+                  "system",
+                  "web",
+                  "web-application",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2161,12 +3689,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+                "homepage": null,
                 "id": 83222441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-20T01:52:19Z",
+                "open_issues": 613,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 366579
+                "stars": 366601,
+                "topics": [
+                  "design",
+                  "design-patterns",
+                  "design-system",
+                  "development",
+                  "interview",
+                  "interview-practice",
+                  "interview-questions",
+                  "programming",
+                  "python",
+                  "system",
+                  "web",
+                  "web-application",
+                  "webapp"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2177,12 +3724,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are the best resources for System Design on the Internet",
+                "homepage": "https://interviewready.io",
                 "id": 493934907,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-16T22:41:39Z",
+                "open_issues": 2,
                 "owner": "InterviewReady",
                 "repo": "system-design-resources",
-                "stars": 18459
+                "stars": 18460,
+                "topics": [
+                  "cache",
+                  "fault-tolerance",
+                  "scalability",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2193,12 +3750,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These are the best resources for System Design on the Internet",
+                "homepage": "https://interviewready.io",
                 "id": 493934907,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-16T22:41:39Z",
+                "open_issues": 2,
                 "owner": "InterviewReady",
                 "repo": "system-design-resources",
-                "stars": 18459
+                "stars": 18460,
+                "topics": [
+                  "cache",
+                  "fault-tolerance",
+                  "scalability",
+                  "system-design"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -2216,12 +3783,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of free, public, forward proxy servers. UPDATED DAILY!",
+                "homepage": null,
                 "id": 89821812,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-01T22:34:08Z",
+                "open_issues": 10,
                 "owner": "clarketm",
                 "repo": "proxy-list",
-                "stars": 2385
+                "stars": 2385,
+                "topics": [
+                  "proxy",
+                  "proxy-list",
+                  "proxy-server"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2232,12 +3808,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of free, public, forward proxy servers. UPDATED DAILY!",
+                "homepage": null,
                 "id": 89821812,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-03-01T22:34:08Z",
+                "open_issues": 10,
                 "owner": "clarketm",
                 "repo": "proxy-list",
-                "stars": 2385
+                "stars": 2385,
+                "topics": [
+                  "proxy",
+                  "proxy-list",
+                  "proxy-server"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2248,12 +3833,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a curated list of awesome streaming frameworks, applications, etc",
+                "homepage": "https://manuzhang.github.io/awesome-streaming",
                 "id": 28163761,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T02:04:33Z",
+                "license": null,
+                "last_commit": "2026-08-29T01:30:42Z",
+                "open_issues": 5,
                 "owner": "manuzhang",
                 "repo": "awesome-streaming",
-                "stars": 3009
+                "stars": 3009,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "stream-processing"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2264,12 +3859,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Updated list of public BitTorrent trackers",
+                "homepage": "https://ngosang.github.io/trackerslist/",
                 "id": 56969116,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T22:09:43Z",
+                "open_issues": 13,
                 "owner": "ngosang",
                 "repo": "trackerslist",
-                "stars": 54989
+                "stars": 54990,
+                "topics": [
+                  "bittorrent",
+                  "bittorrent-tracker",
+                  "bittorrent-trackers",
+                  "http",
+                  "list",
+                  "lists",
+                  "public-tracker",
+                  "public-trackers",
+                  "torrent",
+                  "tracker",
+                  "trackers",
+                  "trackerslist",
+                  "udp",
+                  "webtorrent",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2280,12 +3896,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Updated list of public BitTorrent trackers",
+                "homepage": "https://ngosang.github.io/trackerslist/",
                 "id": 56969116,
                 "language": null,
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T22:09:43Z",
+                "open_issues": 13,
                 "owner": "ngosang",
                 "repo": "trackerslist",
-                "stars": 54989
+                "stars": 54990,
+                "topics": [
+                  "bittorrent",
+                  "bittorrent-tracker",
+                  "bittorrent-trackers",
+                  "http",
+                  "list",
+                  "lists",
+                  "public-tracker",
+                  "public-trackers",
+                  "torrent",
+                  "tracker",
+                  "trackers",
+                  "trackerslist",
+                  "udp",
+                  "webtorrent",
+                  "ws"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2296,12 +3933,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Web Performance Optimization. ",
+                "homepage": "https://awesome-wpo.dev/",
                 "id": 25212911,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-28T02:18:16Z",
+                "open_issues": 21,
                 "owner": "davidsonfellipe",
                 "repo": "awesome-wpo",
-                "stars": 9054
+                "stars": 9054,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "webperf",
+                  "webperf-metrics",
+                  "webperformance"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             },
@@ -2312,12 +3961,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of Web Performance Optimization. ",
+                "homepage": "https://awesome-wpo.dev/",
                 "id": 25212911,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-07-28T02:18:16Z",
+                "open_issues": 21,
                 "owner": "davidsonfellipe",
                 "repo": "awesome-wpo",
-                "stars": 9054
+                "stars": 9054,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "webperf",
+                  "webperf-metrics",
+                  "webperformance"
+                ]
               },
               "first_seen": "2026-08-28T22:43:12.849Z"
             }
@@ -2331,15 +3992,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:43:12.849Z",
+    "last_updated": "2026-08-29T04:19:06.021Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of GitHub Repositories full of FREE Resources.",
+      "homepage": null,
       "id": 355956968,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-08-20T12:06:17Z",
+      "open_issues": 5,
       "owner": "pawelborkar",
       "repo": "awesome-repos",
-      "stars": 3227
+      "stars": 3227,
+      "topics": [
+        "awesome",
+        "awesome-repos",
+        "awesome-repositories",
+        "free",
+        "github",
+        "github-repos",
+        "hacktoberfest",
+        "hacktoberfest-accepted",
+        "hacktorberfest",
+        "repos",
+        "repositories",
+        "resources"
+      ]
     },
     "original_repository_sha": "d3828dfc179aefebd67d54a17190f17cf21a53e7",
     "enhanced_repository": "enhansome/enhansome-repos",
